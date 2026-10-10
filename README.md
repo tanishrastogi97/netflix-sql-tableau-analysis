@@ -1,5 +1,7 @@
 # Netflix Content Analysis (SQL + Tableau)
 
+![Netflix Logo](https://github.com/tanishrastogi97/netflix-sql-tableau-analysis/blob/main/logo.png)
+
 Analysis of 8,807 Netflix movies and TV shows. I answered 20 business questions in PostgreSQL and presented the results in 4 interactive Tableau dashboards.
 
 **Live dashboards:** [Tableau Public](https://public.tableau.com/app/profile/tanish.rastogi/viz/NetflixContentAnalysis_/1_CatalogOverview)
